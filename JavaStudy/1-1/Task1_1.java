@@ -24,13 +24,13 @@ public class Task1_1 {
       // ⑤変数 hogeString を値「合格」で上書き
     hogeString = "合格";
       // ⑥変数 hogeInt の値を表示
-      System.out.print(hogeInt)
+    System.out.print(hogeInt);
       // ⑦下記の処理について、何をしているのかコメントを記入してください
       // [hogeStringの値を表示]
       System.out.println(hogeString);
 
       // ⑧変数 hogeDouble の値を表示
-      System.out.print(hogeDouble)
+    System.out.print(hogeDouble);
 
   }
 }
